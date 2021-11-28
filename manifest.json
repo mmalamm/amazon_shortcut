@@ -1,0 +1,12 @@
+{
+  "name": "amazon_focus_search",
+  "version": "1.0",
+  "description": "to focus search input with cmd+s",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://www.amazon.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
