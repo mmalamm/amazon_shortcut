@@ -5,4 +5,4 @@ Annoyed with having to manually click/ tab to the search input field on amazon.c
 
 ## Issues
 
-currently only works on Mac since I made this for myself and that's all I use these days
+currently only works on Mac since I made this for myself and that's all I use these days. feel free to fork/submit PR to increase functionality
